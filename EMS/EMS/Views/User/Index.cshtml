@@ -1,0 +1,23 @@
+﻿@model EMS.Data.Entities.Employee 
+
+@{
+    ViewData["Title"] = "User Information";
+}
+
+<h2>User Information</h2>
+
+@if (Model != null)
+{
+    <div class="mt-4">      
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Name:</strong> @Model.Name</li>
+            <li class="list-group-item"><strong>Department:</strong> @Model.Department</li>
+            <li class="list-group-item"><strong>Job Title:</strong> @Model.JobTitle</li>
+            <li class="list-group-item"><strong>Remote Work Status:</strong> @Model.RemoteWorkStatus</li>        
+        </ul>
+    </div>
+}
+else
+{
+    <p>No employee details found for the logged-in user.</p>
+}

@@ -1,0 +1,10 @@
+C:\Users\mudip\source\repos\EMS\EMSDB\bin\Debug\EMSDB.dacpac
+C:\Users\mudip\source\repos\EMS\EMSDB\bin\Debug\EMSDB.dll
+C:\Users\mudip\source\repos\EMS\EMSDB\bin\Debug\EMSDB.pdb
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\EMSDB.sqlproj.AssemblyReference.cache
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\Model.xml
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\refactor.xml
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\postdeploy.sql
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\predeploy.sql
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\EMSDB.dll
+C:\Users\mudip\source\repos\EMS\EMSDB\obj\Debug\EMSDB.pdb

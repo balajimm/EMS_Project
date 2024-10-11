@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mudip\\source\\repos\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\data\\migrations\\20241011055001_newfivemigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\data\\migrations\\20241011055001_newfivemigrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|c:\\users\\mudip\\source\\repos\\ems\\ems\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0953B63-DDFB-4947-9075-A2AAD74BE756}|EMS\\EMS.csproj|solutionrelative:ems\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EMS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EMS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:11:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:10:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:46:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:46:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EMS\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "EMS\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:33:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EMS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EMS\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:04:52.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EMS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EMS\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:42:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EMS\\Data\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\Entities\\Employee.cs",
+              "RelativeToolTip": "EMS\\Data\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:55:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:09:45.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:10:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:41:08.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Program.cs",
+              "RelativeDocumentMoniker": "EMS\\Program.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Program.cs",
+              "RelativeToolTip": "EMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:12:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EMS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EMS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:28:20.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EMS\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EMS\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:09:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "EMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:56:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:51:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "EMS\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T08:12:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\appsettings.json",
+              "RelativeDocumentMoniker": "EMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\appsettings.json",
+              "RelativeToolTip": "EMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T12:42:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EMS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:46:39.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241011055001_NewfiveMigrationName.cs",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\Migrations\\20241011055001_NewfiveMigrationName.cs",
+              "RelativeDocumentMoniker": "EMS\\Data\\Migrations\\20241011055001_NewfiveMigrationName.cs",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Data\\Migrations\\20241011055001_NewfiveMigrationName.cs",
+              "RelativeToolTip": "EMS\\Data\\Migrations\\20241011055001_NewfiveMigrationName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:50:02.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EMS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mudip\\source\\repos\\EMS\\EMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EMS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:46:41.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
